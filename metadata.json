@@ -5,7 +5,7 @@
       "codified-date": "2026-05-15",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.16.dev475"
+        "version": "2.20.17"
       },
       "repositories": [
         {
@@ -13,7 +13,7 @@
           "name": "chickasawnation/law-xml"
         },
         {
-          "commit": "e5dbaea3e3ce0fc61010e4e3e47aea9ba12b8150",
+          "commit": "e3388a0e36223692d492bd7a269821f4e5812fc6",
           "name": "chickasawnation/law-xml-codified-preview"
         }
       ],
