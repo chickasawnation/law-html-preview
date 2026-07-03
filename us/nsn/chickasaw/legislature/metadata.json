@@ -5,12 +5,16 @@
       "codified-date": "2026-05-15",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.17"
+        "version": "2.20.16.dev475"
       },
       "repositories": [
         {
           "commit": "5d919fb37e412daf4f8b5c4cb20666645193cba3",
           "name": "chickasawnation/law-xml"
+        },
+        {
+          "commit": "0b1ccc3bfc6512868dfd97eeb144ebed5174250f",
+          "name": "chickasawnation/law-xml-codified-preview"
         }
       ],
       "search": {
