@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-07-13",
+      "build-date": "2026-07-14",
       "codified-date": "2026-05-15",
       "platform": {
         "reproducible": "false",
@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "3b52476e5d24e9ca76f0af2045e6960fb9529d5b",
+          "commit": "ed0076f1fc81be3c5092e5b29456fcb0ac6fae7e",
           "name": "chickasawnation/law-xml"
         },
         {
-          "commit": "987517d56c80a79429f7664e1111751a9837c063",
+          "commit": "3caf10792579edbda6979294886558fa130a55fe",
           "name": "chickasawnation/law-xml-codified-preview"
         }
       ],
