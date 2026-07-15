@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "f2cab6927527e239c3ba25525de9d448cf95b89f",
+          "commit": "baaf06b172b47b036ae630f5bdbbab2116c66306",
           "name": "chickasawnation/law-xml"
         },
         {
-          "commit": "6438960e8dacaaf6d45af023647d778c2e3019d6",
+          "commit": "af44c61a2eb797f44a25afc056378752a021f15f",
           "name": "chickasawnation/law-xml-codified-preview"
         }
       ],
